@@ -1,6 +1,6 @@
 # Crímenes de época: Mundo Friki
 
-Cinco crímenes en el mundo friki: una tienda de cómics, un salón del manga, una partida de rol, un torneo de videojuegos y un
+Seis crímenes en el mundo friki: una tienda de cómics, un salón del manga, dos partidas de rol, un torneo de videojuegos y un
 estreno galáctico. Un sudoku de asesinatos: coloca a cada sospechoso en su sitio, uno por fila y por columna, y descubre quién
 se quedó a solas con la víctima. Cada mundo tiene su propia regla especial, y los casos van del fácil al maestro. Juego web
 autónomo en un único `index.html`.
@@ -28,6 +28,7 @@ autónomo en un único `index.html`.
 | Fácil · 5×5 | Edición limitada | Tienda de cómics | La figura de edición limitada: nadie puede estar pegado a la figura de superhéroe |
 | Medio · 6×6 | Cosplay con sorpresa | Salón del manga | Cosplay: los cosplayers solo en el Escenario y la Zona de fotos, el público nunca, la organización donde quiera |
 | Difícil · 7×7 | Tirada crítica | Partida de rol | Sin espiar la hoja: dos jugadores nunca están en diagonal |
+| Difícil 2 · 7×7 | Tirada repetida | Partida de rol | Sin espiar la hoja: dos jugadores nunca están en diagonal |
 | Experto · 8×8 | Pantalla final | Torneo de videojuegos | A los mandos: cada jugador está al lado de una consola o de un ordenador |
 | Maestro · 9×9 | Butaca vacía | Estreno galáctico | Fans rivales: un fan nunca está en la misma sala ni en diagonal a un fan de la saga rival |
 
